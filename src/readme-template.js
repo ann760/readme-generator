@@ -16,7 +16,7 @@ const generatePage = (name, github) => {
     *
   
     ## Website
-    *
+    * [${website}](${websiteUrl})
   
     ![img](./assets/images/file.jpg)
   
