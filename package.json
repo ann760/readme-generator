@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a node js program that will gernerate a readme.",
+  "main": "readmeGen.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann760/readme-generator.git"
+  },
+  "author": "Ann-Marie Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ann760/readme-generator/issues"
+  },
+  "homepage": "https://github.com/ann760/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
