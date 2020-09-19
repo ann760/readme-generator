@@ -1,32 +1,20 @@
 
   # Application Name
-  * 
+  * mine
 
   # Application description
-  *
+  * mine
 
   ## Built With
-  *
+  * JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node
 
   ## User Story
-  *
+  * story 
 
   ## Acceptance Criteria
-  *
-
-  ## Website
-  *
-
-  ![img](./assets/images/file.jpg)
-
-  ## Tested on the following browser
-  Devices and Browsers used:
-  * Windows 10 (64 bit) 
-
-  ## Future Enhancement
-  * 
+  * story 
 
   ## Author
-  * [Ann-Marie](https://github.com/ann760)
+  * [Ann-Marie Orozco](https://github.com/ann760)
 
     
