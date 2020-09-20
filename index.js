@@ -59,9 +59,9 @@ const promptUser = () => {
     },
     {
       type: 'list',
-      name: 'lincense',
-      message: 'Please provide lincense? (Required)',
-      choices: ['MIT', 'Apache 2.0', 'GPL', 'None'],
+      name: 'license',
+      message: 'Please provide license? (Required)',
+      choices: ['MIT', 'Apache', 'GPL', 'None'],
       validate: nameInput => {
         if (nameInput) {
           return true;
@@ -139,51 +139,7 @@ const promptUser = () => {
   ]);
 };
 
-//  const promptAcceptanceCriteria = acceptanceData => {
-
-// // If there's no 'projects' array property, create one
-//  if (!acceptanceData.criteria) {
-//    acceptanceData.criteria = [];
-//  }
-
-//   console.log(`
-//  =================
-//  Add Acceptance Criteria
-//  =================
-//  `);
-//    return inquirer.prompt([
-//      {
-//        type: 'input',
-//        name: 'description',
-//        message: 'Provide the acceptance criteria (Required)',
-//        validate: nameInput => {
-//          if (nameInput) {
-//            return true;
-//         } else {
-//            console.log('Please enter the acceptance critera!');
-//           return false;
-//          }
-//        }
-//      },
-//      {
-//        type: 'confirm',
-//        name: 'confirmAddCriteria',
-//        message: 'Would you like to enter another criteria?',
-//        default: false
-//      }
-//    ])
-//    .then(acceptanceCriteria => {
-//      acceptanceData.criteria.push(acceptanceCriteria);
-//      if (acceptanceCriteria.confirmAddCriteria) {
-//        return promptAcceptanceCriteria(acceptanceData);
-//      } else {
-//        return acceptanceData;
-//     }
-//   });
-//  };
-
 promptUser()
-  //.then(promptAcceptanceCriteria)
   .then(answers => {
     const pageHTML = generatePage(answers);
 

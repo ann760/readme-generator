@@ -1,6 +1,6 @@
 function renderLicense(license){
   if (license !== "None") {
-    return `![License](https://img.shields.io/badge/license-blue.svg)`
+    return `![${license}](https://img.shields.io/badge/license-purple.svg)`
   }
 }
 
@@ -39,10 +39,10 @@ module.exports = templateData => {
    * ${info.test}
 
   ## Questions
-  * if you have any question please contact me.
-  ** ${info.author}
-  ** [email](${info.email})
-  ** [GitHub](https://github.com/${info.github})
+  if you have any question please contact me.
+  ### ${info.author} 
+  ### [email](${info.email}) 
+  ### [GitHub](https://github.com/${info.github})
 
     `;
   };

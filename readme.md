@@ -1,37 +1,36 @@
 
-  # Application Name
-  * annie
+  # Generate Readme
 
   # Description
-  * annnie
+  * This project will generate a readme.md
 
   ## Table of Contents, 
-  [Installation](#installation)
-  [Usage](#usage)
-  [License](#)
-  [Contribution](#contribution)
-  [Tests Instructions](#test)
-  [Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Tests Instructions](#test)
+  * [Questions](#questions)
 
   ## Installation
-  * annie
+  * To run this project you will have to install the npm and the inquirer module.
 
   ## Usage
-  * annie
+  * This project can be used to generate a readme.md for any project
 
   ## License
-  ![License](https://img.shields.io/badge/license-blue.svg)
+  ![GPL](https://img.shields.io/badge/license-purple.svg)
 
   ## Contribution
-  * annie
+  * If you would like to contribute please contact me via email.
 
   ## Test Instructions
-   * annie
+   * Test on Windows 10 PowerShell
 
   ## Questions
-  * if you have any question please contact me.
-  ** annie
-  ** [email](annie)
-  ** [GitHub](https://github.com/annie)
+  if you have any question please contact me.
+  ### Ann-Marie Orozco /n 
+  [email](anniedillier@gmail.com) /n
+  ** [GitHub](https://github.com/ann760)
 
     
