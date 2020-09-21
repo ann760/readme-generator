@@ -20,7 +20,7 @@ module.exports = templateData => {
   * [Usage](#usage)
   * [License](#license)
   * [Contribution](#contribution)
-  * [Tests Instructions](#test)
+  * [Test Instructions](#test)
   * [Questions](#questions)
 
   ## Installation

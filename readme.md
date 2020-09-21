@@ -2,35 +2,35 @@
   # Generate Readme
 
   # Description
-  * This project will generate a readme.md
+  * This program will generate a readme.md for any project
 
   ## Table of Contents, 
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contribution](#contribution)
-  * [Tests Instructions](#test)
+  * [Test Instructions](#test)
   * [Questions](#questions)
 
   ## Installation
-  * To run this project you will have to install the npm and the inquirer module.
+  * To run this program you will need to install the npm and inquirer module
 
   ## Usage
-  * This project can be used to generate a readme.md for any project
+  * This program is used on the command line 
 
   ## License
-  ![GPL](https://img.shields.io/badge/license-purple.svg)
+  undefined
 
   ## Contribution
-  * If you would like to contribute please contact me via email.
+  * If you would linke to contribute to the project please contact me via email
 
   ## Test Instructions
-   * Test on Windows 10 PowerShell
+   * This program has been tested on the Windows 10 PowerShell
 
   ## Questions
   if you have any question please contact me.
-  ### Ann-Marie Orozco /n 
-  [email](anniedillier@gmail.com) /n
-  ** [GitHub](https://github.com/ann760)
+  ### Ann-Marie Orozco 
+  ### [email](anniedillier@gmail.com) 
+  ### [GitHub](https://github.com/ann760)
 
     
